@@ -1,0 +1,12 @@
+﻿# Dev tools, not part of the site
+node_modules/
+package.json
+package-lock.json
+*.mjs
+temporary screenshots/
+# Other project and private source files
+ocstar/
+brand_assets/
+*.pdf
+CLAUDE.md
+.claude/
